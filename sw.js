@@ -1,4 +1,4 @@
-const CACHE = 'income5-v3';
+const CACHE = 'income5-v4';
 
 const ASSETS = [
   './',
