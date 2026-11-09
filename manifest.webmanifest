@@ -1,9 +1,9 @@
-
 {
+  "id": "/income-5/",
   "name": "บัญชีรายรับ INCOME 5",
-  "short_name": "INCOME 5",
-  "start_url": "/income-5/",
-  "scope": "/income-5/",
+  "short_name": "บัญชีรายรับ",
+  "start_url": "./",
+  "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#f1f5f9",
